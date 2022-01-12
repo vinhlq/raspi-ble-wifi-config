@@ -1,0 +1,12 @@
+__pycache__
+**/__pycache__
+venv
+*.key
+*.crt
+*.cert
+*.pem
+*.egg-info
+deb_dist
+dist
+*.tar.gz
+git.sh

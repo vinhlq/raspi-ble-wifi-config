@@ -1,0 +1,10 @@
+[Unit]
+Description=Config wifi SSID & Passphrase over BLE on raspberry pi
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/ble-wifi-config
+Restart=always
+
+[Install]
+WantedBy=multi-user.target

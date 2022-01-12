@@ -1,0 +1,6 @@
+{
+  "workbench.editor.enablePreviewFromQuickOpen": false,
+  "workbench.editor.enablePreview": false,
+  "python.disableInstallationCheck": true,
+  "python.pythonPath": "/usr/bin/python",
+}
